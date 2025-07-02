@@ -1,7 +1,7 @@
 # tictac
 
-A new Flutter project.
-
+Simple XO game to practice Dart OOP principles.
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
