@@ -1,6 +1,6 @@
 # tictac
 
-Simple XO game to practice Dart OOP principles.
+Simple XO game with login screen to practice Dart OOP principles.
  
 ## Getting Started
 
