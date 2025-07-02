@@ -16,3 +16,13 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshot from the application
+
+<h3>Login Screen</h3>
+<img src="appImages/1.jpg" width="300"/>
+
+<h3>UI Screen</h3>
+<img src="appImages/2.jpg" width="300"/>
+
+<h3>In Game Screen</h3>
+<img src="appImages/3.jpg" width="300"/>
+
